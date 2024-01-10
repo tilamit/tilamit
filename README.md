@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Amit</h1>
-<h3 align="center">A remote software engineer from Bangladesh</h3>
+<h3 align="center">A Remote Software Engineer From Bangladesh</h3>
 
 - 🌱 I’m currently trying to learn **MS Azure, CI / CD**
 
