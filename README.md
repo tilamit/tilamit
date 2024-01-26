@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **.NET / .NET Core, C#**
 
-- 📫 How to reach me **amitbarua2000@yahoo.com**
+- 📫 Reach me at **amitbarua2000@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
