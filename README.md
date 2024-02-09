@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Amit</h1>
 <h3 align="center">A Remote Software Engineer From Bangladesh</h3>
 
-- 🌱 I’m currently trying to learn **MS Azure, CI / CD**
+- 🌱 Continuous learner
 
 - 📝 I write posts on [LInkedIn](https://www.linkedin.com/in/amit-kanti-barua-a618b951)
 
