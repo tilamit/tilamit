@@ -5,7 +5,7 @@
 
 - 📝 I write posts on [LInkedIn](https://www.linkedin.com/in/amit-kanti-barua-a618b951)
 
-- 💬 Ask me about **.NET / .NET Core, C#**
+- 💬 Ask me about **.NET / .NET Framework, C#**
 
 - 📫 Reach me at **amitbarua2000@yahoo.com**
 
